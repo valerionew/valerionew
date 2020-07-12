@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+VALERIO IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+
+
 <!--
 **valerionew/valerionew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
