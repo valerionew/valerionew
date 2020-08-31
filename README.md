@@ -25,6 +25,13 @@
 - [ITA keyboard enhanced](https://github.com/valerionew/ITA-keyboard-enhanced): An italian keyboard for windows, featuring ÀCCÈNTÉD VÒWÈLS ÌN CÀPS
 - [Computational madness](https://github.com/valerionew/computational-madness): How fast can you get to an estimate of Pi with one of the most inefficient methods?
 
+
+#### 🔁 Happyly contributed to:
+- [Microsoft Stream URL extractor](https://github.com/MicrosoftStreamURLExtractor/MicrosoftStreamURLExtractor.github.io): A tool to help PoliMi students download the video lessons of their courses
+- [KiCAD Symbol Library](https://github.com/KiCad/kicad-symbols): The compoents library of KiCAD
+- [KiCAD Footprint Library](https://github.com/KiCad/kicad-footprints): The footprint libray of KiCAD
+- [PIC Notes](https://github.com/Squareroot7/pic-notes): Course note on PIC microcontrollers (in italian)
+- [ADB-3020-CDV](https://github.com/Testato/ADB-3020-CDV): Fork of a 30V 20A adjustable bench switching power supply.
 <!--
 **valerionew/valerionew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
