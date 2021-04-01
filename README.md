@@ -3,7 +3,8 @@
 ### 🚧 My repos:
 
 #### 🛠 Hardware:
-- [Basil365](https://github.com/valerionew/basil365): ⚠ WORK IN PROGRESS ⚠ I want fresh basil all year round, but outdoors here it doesn't grow. Let's fix this, and make it IoT.
+- [Colors of Italy](https://github.com/valerionew/colors-of-italy/): A lamp that helps keep track of the COVID restrictions enforced in the italian regions
+- [Basil365](https://github.com/valerionew/basil365): ~I want fresh basil all year round, but outdoors here it doesn't grow. Let's fix this, and make it IoT.~ Cancelled for now
 - [Banana Random Number Generator](https://github.com/valerionew/Banana-Random-Number-Generator): What if we could use bananas as a source of cryptographical grade entropy?
 - [Blink-errr](https://github.com/valerionew/blink-errr): A blinking led that will go on blinking for as long as 10 years on a CR2032 cell
 - [53xLIDAR](https://github.com/valerionew/53xLIDAR): A solid state, 16-points, LIDAR based on STMicro's VL53L1x time-of-flight IR sensors
