@@ -13,6 +13,12 @@
 - [Omega dock new](https://github.com/valerionew/omega-dock-new): Dock with ethernet and usb host for the Onion Omega 2
 - [ADC-DAC-16bit](https://github.com/valerionew/ADC-DAC-16bit): *Archived*. An attempt at having a 16 bit ADC + DAC on a single 20x20mm module
 
+
+#### 💻 Software:
+- [Wordle solver](https://github.com/valerionew/wordle-solver): My attempt at writing a [Wordle](https://www.nytimes.com/games/wordle/index.html) solver that exploits bayesian tracking.
+- [ITA keyboard enhanced](https://github.com/valerionew/ITA-keyboard-enhanced): An italian keyboard for windows, featuring ÀCCÈNTÉD VÒWÈLS ÌN CÀPS
+- [Computational madness](https://github.com/valerionew/computational-madness): How fast can you get to an estimate of Pi with one of the most inefficient methods?
+
 #### 📖 Documentation:
 - [Unisolder notes](https://github.com/valerionew/unisolder-notes): (Almost) everything you'll need to build your unit of the open source universal soldering iron controller
 - [ATTiny10 notes](https://github.com/valerionew/attiny10-notes): Notes on the tinyest ATTiny - 4 GPIOs can be enough sometimes
@@ -20,12 +26,14 @@
 #### 📚 Libraries:
 - [HT1621 7-seg](https://github.com/valerionew/ht1621-7-seg): A library for driving a 7 segment LCD based on a HT1621 controller with arduino
 
-#### 🎓 University: (Politecnico di Milano, bachelor in EE)
-- [triennale-elettronica-polimi](https://github.com/valerionew/triennale-elettronica-polimi): A [website](https://valerionew.github.io/triennale-elettronica-polimi/) containing a collection of notes, code and more from my bachelor degree
+#### 🎓 University projects: (Politecnico di Milano, bachelor and master in EE)
+- [triennale-elettronica-polimi](https://github.com/valerionew/triennale-elettronica-polimi): A [website](https://valerionew.github.io/triennale-elettronica-polimi/) containing a collection of notes, code and more from my degree. With time, many students contributed with their own notes, and the website now hosts almost one hundred resources contributed from tens of students.
+- [Sensor systems course](https://github.com/valerionew/sensor-systems-course): Repository with STM32 HAL embedded code from the Sensor Systems course
+- [DESD fpga code](https://github.com/valerionew/desd-labs): VHDL repository for the digital electronic systems design course, targeting a Xilinx Artix-7 board (Basys 3)
+- [Calcolo Numerico](https://github.com/valerionew/calcolo_numerico): MATLAB code for the numerical analisys course
+- [Microcontrollori](https://github.com/valerionew/microcontrollori-polimi): Repository for the microcontrollers course, register level programming targeting 8 bit PICs 
+- [Elettronica digitale](https://github.com/valerionew/elettronica-digitale-notes): VHDL repository for the digital electronics course, focused on behavioral VHDL basics and simulation
 
-#### 💻 Computer stuff:
-- [ITA keyboard enhanced](https://github.com/valerionew/ITA-keyboard-enhanced): An italian keyboard for windows, featuring ÀCCÈNTÉD VÒWÈLS ÌN CÀPS
-- [Computational madness](https://github.com/valerionew/computational-madness): How fast can you get to an estimate of Pi with one of the most inefficient methods?
 
 #### 🔁 Happily contributed to:
 - [Microsoft Stream URL extractor](https://github.com/MicrosoftStreamURLExtractor/MicrosoftStreamURLExtractor.github.io): A tool to help PoliMi students download the video lessons of their courses
@@ -38,20 +46,5 @@
 - [My Thingiverse profile](https://www.thingiverse.com/valerio_new)
 - [My hackaday.io profile](https://hackaday.io/valerionew)
 - [Fablab Bergamo](fablabbergamo.it) - [Also on Github!](https://github.com/fablab-bergamo)
-
-<!--
-**valerionew/valerionew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![Valerionew's GitHub stats](https://github-readme-stats.vercel.app/api?username=valerionew&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
