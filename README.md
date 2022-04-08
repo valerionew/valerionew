@@ -27,7 +27,7 @@
 - [HT1621 7-seg](https://github.com/valerionew/ht1621-7-seg): A library for driving a 7 segment LCD based on a HT1621 controller with arduino
 
 #### 🎓 University projects: (Politecnico di Milano, bachelor and master in EE)
-- [triennale-elettronica-polimi](https://github.com/valerionew/triennale-elettronica-polimi): A [website](https://valerionew.github.io/triennale-elettronica-polimi/) containing a collection of notes, code and more from my degree. With time, many students contributed with their own notes, and the website now hosts almost one hundred resources contributed from tens of students.
+- [triennale-elettronica-polimi](https://github.com/valerionew/triennale-elettronica-polimi): A [website](https://valerionew.github.io/triennale-elettronica-polimi/) containing a collection of notes, code and more from my degree. With time, many students contributed with their own notes, and the website now hosts almost one hundred resources contributed from many of students.
 - [Sensor systems course](https://github.com/valerionew/sensor-systems-course): Repository with STM32 HAL embedded code from the Sensor Systems course
 - [DESD fpga code](https://github.com/valerionew/desd-labs): VHDL repository for the digital electronic systems design course, targeting a Xilinx Artix-7 board (Basys 3)
 - [Calcolo Numerico](https://github.com/valerionew/calcolo_numerico): MATLAB code for the numerical analisys course
