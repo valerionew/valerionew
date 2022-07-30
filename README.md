@@ -4,6 +4,7 @@
 ### 🚧 My repos:
 
 #### 🛠 Hardware:
+- [fablab-bergamo/OrtoSmart](https://github.com/fablab-bergamo/OrtoSmart): An educational environmental monitoring project with Fablab Bergamo and the Youth Office of the Bergamo municipality, Italy.
 - [Colors of Italy](https://github.com/valerionew/colors-of-italy/): A lamp that helps keep track of the COVID restrictions enforced in the italian regions
 - [Basil365](https://github.com/valerionew/basil365): *On hold*. I want fresh basil all year round, but outdoors here it doesn't grow. Let's fix this, and make it IoT
 - [Banana Random Number Generator](https://github.com/valerionew/Banana-Random-Number-Generator): What if we could use bananas as a source of cryptographical grade entropy?
