@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=valerionew)
+
 
 
 ***VALERIO\NEW** IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH **VALERIO\NEW** OR THE USE OR OTHER DEALINGS IN **VALERIO\NEW**.*
@@ -52,3 +52,5 @@
 - [Fablab Bergamo](fablabbergamo.it) - [Also on Github!](https://github.com/fablab-bergamo)
 
 [![Valerionew's GitHub stats](https://github-readme-stats.vercel.app/api?username=valerionew&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=valerionew)
