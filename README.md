@@ -52,5 +52,5 @@
 - [Fablab Bergamo](fablabbergamo.it) - [Also on Github!](https://github.com/fablab-bergamo)
 
 [![Valerionew's GitHub stats](https://github-readme-stats.vercel.app/api?username=valerionew&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://hit.yhype.me/github/profile?user_id=17505995)
 ![](https://komarev.com/ghpvc/?username=valerionew)
